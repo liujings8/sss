@@ -10,3 +10,6 @@
 [submodule "javascript/mui"]
 	path = javascript/mui
 	url = https://github.com/dcloudio/mui.git
+[submodule "vue/vue-tutorials"]
+	path = vue/vue-tutorials
+	url = https://github.com/keepfool/vue-tutorials.git
