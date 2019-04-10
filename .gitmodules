@@ -7,3 +7,6 @@
 [submodule "themes/hexo-theme-yilia"]
 	path = themes/hexo-theme-yilia
 	url = https://github.com/litten/hexo-theme-yilia.git
+[submodule "javascript/mui"]
+	path = javascript/mui
+	url = https://github.com/dcloudio/mui.git
