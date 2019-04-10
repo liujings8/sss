@@ -4,3 +4,6 @@
 [submodule "vue/vueBlog"]
 	path = vue/vueBlog
 	url = https://github.com/chaohangz/vueBlog.git
+[submodule "themes/hexo-theme-yilia"]
+	path = themes/hexo-theme-yilia
+	url = https://github.com/litten/hexo-theme-yilia.git
