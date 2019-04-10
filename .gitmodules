@@ -13,3 +13,6 @@
 [submodule "vue/vue-tutorials"]
 	path = vue/vue-tutorials
 	url = https://github.com/keepfool/vue-tutorials.git
+[submodule "themes/Casper.git"]
+	path = themes/Casper.git
+	url = https://github.com/TryGhost/Casper.git
