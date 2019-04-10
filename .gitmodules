@@ -1,3 +1,6 @@
 [submodule "themes/hexo-theme-next"]
 	path = themes/hexo-theme-next
 	url = https://github.com/liujings8/hexo-theme-next.git
+[submodule "vue/vueBlog"]
+	path = vue/vueBlog
+	url = https://github.com/chaohangz/vueBlog.git
